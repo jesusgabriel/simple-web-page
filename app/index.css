@@ -55,6 +55,17 @@ body {
   color: white;
   background: gray;
   text-transform: uppercase;
+
+}
+  nav ul{
+  display: flex;
+  flex-direction:row;
+  justify-content: flex-end;
+
+}
+li{
+  list-style-type: none;
+  margin:  0.5rem;
 }
 
 .main {
